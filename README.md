@@ -40,3 +40,15 @@ The problems are organized by topic or difficulty to make navigation straightfor
 │   │   ├── Solution.cpp
 │   │   └── README.md
 └── 🔴 Hard/
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/0019-remove-nth-node-from-end-of-list) |
+<!---LeetCode Topics End-->
