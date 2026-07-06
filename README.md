@@ -51,4 +51,12 @@ The problems are organized by topic or difficulty to make navigation straightfor
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Array
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/1732-find-the-highest-altitude) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
