@@ -59,4 +59,8 @@ The problems are organized by topic or difficulty to make navigation straightfor
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/1732-find-the-highest-altitude) |
+## Math
+|  |
+| ------- |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 <!---LeetCode Topics End-->
