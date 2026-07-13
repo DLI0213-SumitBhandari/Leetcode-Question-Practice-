@@ -73,4 +73,8 @@ The problems are organized by topic or difficulty to make navigation straightfor
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/1331-rank-transform-of-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
