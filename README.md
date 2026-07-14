@@ -56,6 +56,7 @@ The problems are organized by topic or difficulty to make navigation straightfor
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/1331-rank-transform-of-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/1732-find-the-highest-altitude) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -64,6 +65,7 @@ The problems are organized by topic or difficulty to make navigation straightfor
 |  |
 | ------- |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Hash Table
 |  |
@@ -77,4 +79,12 @@ The problems are organized by topic or difficulty to make navigation straightfor
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/1291-sequential-digits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
