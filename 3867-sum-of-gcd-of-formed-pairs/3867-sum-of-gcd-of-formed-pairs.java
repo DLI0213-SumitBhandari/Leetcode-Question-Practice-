@@ -27,13 +27,7 @@ class Solution {
             int j=size-1;
             while(i<j)
             {
-                if(i==j)
-                {
-                    sum=sum+gcdList.get(i);
-                }
-                else{
                 sum=sum+gcd(gcdList.get(i),gcdList.get(j));
-                }
                 i++;
                 j--;
             }
