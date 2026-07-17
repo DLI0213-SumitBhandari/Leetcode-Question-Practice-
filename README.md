@@ -57,16 +57,19 @@ The problems are organized by topic or difficulty to make navigation straightfor
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/1331-rank-transform-of-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/1732-find-the-highest-altitude) |
+| [3312-sorted-gcd-pair-queries](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/1732-find-the-highest-altitude) |
+| [3312-sorted-gcd-pair-queries](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3312-sorted-gcd-pair-queries) |
 ## Math
 |  |
 | ------- |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [3312-sorted-gcd-pair-queries](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -75,6 +78,7 @@ The problems are organized by topic or difficulty to make navigation straightfor
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/1331-rank-transform-of-an-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3312-sorted-gcd-pair-queries) |
 ## Sorting
 |  |
 | ------- |
@@ -91,6 +95,7 @@ The problems are organized by topic or difficulty to make navigation straightfor
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -98,4 +103,16 @@ The problems are organized by topic or difficulty to make navigation straightfor
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Binary Search
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3312-sorted-gcd-pair-queries) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3312-sorted-gcd-pair-queries) |
+## Counting
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
