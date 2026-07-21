@@ -91,6 +91,7 @@ The problems are organized by topic or difficulty to make navigation straightfor
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -124,6 +125,7 @@ The problems are organized by topic or difficulty to make navigation straightfor
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Stack
 |  |
 | ------- |
