@@ -55,6 +55,7 @@ The problems are organized by topic or difficulty to make navigation straightfor
 ## Array
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/1331-rank-transform-of-an-array) |
@@ -75,6 +76,7 @@ The problems are organized by topic or difficulty to make navigation straightfor
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -114,6 +116,7 @@ The problems are organized by topic or difficulty to make navigation straightfor
 ## Dynamic Programming
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/0486-predict-the-winner) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
 |  |
@@ -189,4 +192,12 @@ The problems are organized by topic or difficulty to make navigation straightfor
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
