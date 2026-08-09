@@ -58,6 +58,7 @@ The problems are organized by topic or difficulty to make navigation straightfor
 | [0486-predict-the-winner](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -72,6 +73,7 @@ The problems are organized by topic or difficulty to make navigation straightfor
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/1140-stone-game-ii) |
 | [1732-find-the-highest-altitude](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/1732-find-the-highest-altitude) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3312-sorted-gcd-pair-queries) |
 ## Math
@@ -80,6 +82,7 @@ The problems are organized by topic or difficulty to make navigation straightfor
 | [0486-predict-the-winner](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/1140-stone-game-ii) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -122,6 +125,7 @@ The problems are organized by topic or difficulty to make navigation straightfor
 | ------- |
 | [0486-predict-the-winner](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/1140-stone-game-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
 |  |
@@ -206,4 +210,13 @@ The problems are organized by topic or difficulty to make navigation straightfor
 | ------- |
 | [0486-predict-the-winner](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/1140-stone-game-ii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
