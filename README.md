@@ -64,6 +64,7 @@ The problems are organized by topic or difficulty to make navigation straightfor
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -100,6 +101,7 @@ The problems are organized by topic or difficulty to make navigation straightfor
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/1331-rank-transform-of-an-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -219,4 +221,8 @@ The problems are organized by topic or difficulty to make navigation straightfor
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/1140-stone-game-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
