@@ -64,6 +64,7 @@ The problems are organized by topic or difficulty to make navigation straightfor
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -162,6 +163,7 @@ The problems are organized by topic or difficulty to make navigation straightfor
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -189,6 +191,7 @@ The problems are organized by topic or difficulty to make navigation straightfor
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Bit Manipulation
 |  |
@@ -225,4 +228,8 @@ The problems are organized by topic or difficulty to make navigation straightfor
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
