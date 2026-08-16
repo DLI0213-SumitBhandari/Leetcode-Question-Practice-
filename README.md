@@ -71,6 +71,7 @@ The problems are organized by topic or difficulty to make navigation straightfor
 | [3501-maximize-active-section-with-trade-ii](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
@@ -198,6 +199,7 @@ The problems are organized by topic or difficulty to make navigation straightfor
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
