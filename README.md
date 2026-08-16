@@ -64,6 +64,7 @@ The problems are organized by topic or difficulty to make navigation straightfor
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3312-sorted-gcd-pair-queries) |
@@ -88,6 +89,7 @@ The problems are organized by topic or difficulty to make navigation straightfor
 | [1140-stone-game-ii](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/1140-stone-game-ii) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -157,6 +159,7 @@ The problems are organized by topic or difficulty to make navigation straightfor
 ## Counting
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -179,6 +182,7 @@ The problems are organized by topic or difficulty to make navigation straightfor
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2029-stone-game-ix](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Monotonic Stack
@@ -218,14 +222,17 @@ The problems are organized by topic or difficulty to make navigation straightfor
 | [0486-predict-the-winner](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/2029-stone-game-ix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -234,4 +241,8 @@ The problems are organized by topic or difficulty to make navigation straightfor
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
