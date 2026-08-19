@@ -61,6 +61,7 @@ The problems are organized by topic or difficulty to make navigation straightfor
 | [1140-stone-game-ii](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -106,6 +107,7 @@ The problems are organized by topic or difficulty to make navigation straightfor
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3312-sorted-gcd-pair-queries) |
@@ -184,6 +186,7 @@ The problems are organized by topic or difficulty to make navigation straightfor
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -203,6 +206,7 @@ The problems are organized by topic or difficulty to make navigation straightfor
 ## Bit Manipulation
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
