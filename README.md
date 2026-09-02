@@ -79,6 +79,7 @@ The problems are organized by topic or difficulty to make navigation straightfor
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -108,6 +109,7 @@ The problems are organized by topic or difficulty to make navigation straightfor
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
