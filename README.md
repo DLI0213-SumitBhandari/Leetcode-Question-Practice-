@@ -79,6 +79,7 @@ The problems are organized by topic or difficulty to make navigation straightfor
 | [3513-number-of-unique-xor-triplets-i](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Prefix Sum
@@ -123,6 +124,7 @@ The problems are organized by topic or difficulty to make navigation straightfor
 | [3312-sorted-gcd-pair-queries](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/DLI0213-SumitBhandari/Leetcode-Question-Practice-/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
 |  |
 | ------- |
